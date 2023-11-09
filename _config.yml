@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Giuseppe Spallitta's personal website"
-  avatar           : "images/profile.jpeg"
+  avatar           : "profile.png"
   bio              : "Ph.D. student @ University of Trento\nFormal Methods and Automated Reasoning "expert"(?)"
   location         : "Trento, Italy"
   employer         :
