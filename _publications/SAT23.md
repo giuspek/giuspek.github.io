@@ -1,7 +1,7 @@
 ---
-title: "SMT-based weighted model integration with structure awareness"
+title: "On CNF Conversion for Disjoint SAT Enumeration"
 collection: publications
-permalink: /publication/SMT-based-weighted-model-integration-with-structure-awareness
+permalink: /publication/On-CNF-Conversion-for-Disjoint-SAT-Enumeration
 excerpt: ''
 date: 2023-08-09
 venue: 'SAT23'
