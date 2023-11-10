@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/pillole-di-python-1
 venue: "SAT23"
-date: 2023-03-30
+date: 2023-06-30
 location: "Alghero, Italy"
 ---
 

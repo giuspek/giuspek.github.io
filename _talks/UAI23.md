@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/pillole-di-python-1
 venue: "UAI22"
-date: 2023-03-30
+date: 2022-01-01
 location: "Eindhoven, Netherlands"
 ---
 
