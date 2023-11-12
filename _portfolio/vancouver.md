@@ -1,6 +1,6 @@
 ---
 title: "Vancouver"
-excerpt: "Vancouver - Spring 2023"
+excerpt: "Vancouver - Spring 2023<img src='/images/VNC1.jpeg'>"
 collection: portfolio
 ---
 ![VNC1](/images/VNC1.jpeg)
