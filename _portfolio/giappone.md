@@ -1,9 +1,8 @@
 ---
 title: "Japan"
-excerpt: "Japan - Summer 2023"
+excerpt: "Japan - Summer 2023<img src='/images/JP1.jpeg'>"
 collection: portfolio
 ---
-
 ![JP1](/images/JP1.jpeg)
 
 Summer 2023, with my friends Mario, Marco and Adelisa. My expectations were high, and they were not disappointed!
