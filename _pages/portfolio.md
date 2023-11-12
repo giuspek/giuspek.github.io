@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Travels"
-permalink: /portfolio/
+permalink: /travels/
 author_profile: true
 ---
 

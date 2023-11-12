@@ -11,9 +11,6 @@ main:
     
   - title: "Travels"
     url: /travels/
-
-  - title: "Portfolio"
-    url: /portfolio/
     
   - title: "CV"
     url: /cv/
