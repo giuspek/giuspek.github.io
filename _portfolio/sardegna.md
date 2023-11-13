@@ -1,6 +1,6 @@
 ---
 title: "Sardegna"
-excerpt: "Sardegna - Pre-summer 2023"
+excerpt: "Sardegna - Pre-summer 2023<img src='/images/SD1.jpeg'>"
 collection: portfolio
 ---
 ![SD1](/images/SD1.jpeg)
