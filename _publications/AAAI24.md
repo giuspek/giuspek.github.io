@@ -1,5 +1,5 @@
 ---
-title: "Enumerating Disjoint Partial Models without Blocking Clauses"
+title: "Disjoint Partial Enumeration without Blocking Clauses"
 collection: publications
 permalink: /publication/Disjoint-Partial-Enumeration-without-Blocking-Clauses
 excerpt: ''
