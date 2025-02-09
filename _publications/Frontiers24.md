@@ -1,7 +1,7 @@
 ---
-title: "Effective Prime Factorization via Quantum Annealing by Modular Locally-structured Embedding"
+title: "Experimenting with D-Wave quantum annealers on prime factorization problems"
 collection: publications
-permalink: /publication/Effective-Prime-Factorization-via-Quantum-Annealing-by-Modular-Locally-structured-Embedding
+permalink: /publication/Experimenting-with-D-Wave-quantum-annealers-on-prime-factorization-problems
 excerpt: ''
 date: 2024-04-20
 venue: 'Frontiers in Computer Science'
