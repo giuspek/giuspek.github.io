@@ -10,6 +10,7 @@
   year        = {2026},
   publisher   = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
   doi         = {10.4230/LIPIcs.CP.2026.51},
+  abstract    = {Introduces an Ising/QUBO framework with don't-care semantics for computing short partial SAT assignments, including projected and minimum-cardinality implicants.},
   html        = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2026.51},
   selected    = {true}
 }
@@ -26,6 +27,7 @@
   year        = {2026},
   publisher   = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
   doi         = {10.4230/LIPIcs.SAT.2026.25},
+  abstract    = {Extends deterministic decomposable negation normal form compilation to SMT, enabling a range of theory-level queries to be answered in polynomial time after compilation.},
   html        = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2026.25},
   selected    = {true}
 }
@@ -37,9 +39,23 @@
   author         = {Civini, Emanuele and Masina, Gabriele and Spallitta, Giuseppe and Sebastiani, Roberto},
   booktitle      = {International Joint Conference on Automated Reasoning (IJCAR 2026)},
   year           = {2026},
+  abstract       = {Presents theory-agnostic and parallelizable techniques for enumerating theory lemmas tailored to an SMT formula, improving on conventional eager encodings and baseline AllSMT enumeration.},
   html           = {https://arxiv.org/abs/2602.14634},
   arxiv          = {2602.14634},
   additional_info = {Accepted at IJCAR 2026}
+}
+
+@inproceedings{spallitta2026wme,
+  abbr           = {PoS},
+  bibtex_show    = {true},
+  title          = {{WME}: Extending {CDCL}-based Model Enumeration with Weights},
+  author         = {Spallitta, Giuseppe and Vardi, Moshe Y.},
+  booktitle      = {17th International Workshop on Pragmatics of SAT (PoS 2026)},
+  year           = {2026},
+  abstract       = {Introduces Weighted Model Enumeration and CDCL-based algorithms that combine weight propagation, pruning, and weight-aware conflict analysis for threshold and top-k model queries.},
+  html           = {https://arxiv.org/abs/2603.10236},
+  arxiv          = {2603.10236},
+  additional_info = {Accepted paper at PoS 2026}
 }
 
 @article{spallitta2025disjoint,
@@ -53,6 +69,7 @@
   year        = {2025},
   publisher   = {Elsevier},
   doi         = {10.1016/j.artint.2025.104346},
+  abstract    = {Develops projected AllSAT and AllSMT procedures that combine CDCL, chronological backtracking, theory reasoning, and aggressive implicant shrinking without accumulating blocking clauses.},
   html        = {https://doi.org/10.1016/j.artint.2025.104346},
   selected    = {true}
 }
@@ -67,6 +84,7 @@
   number      = {11},
   year        = {2025},
   doi         = {10.1613/JAIR.1.16870},
+  abstract    = {Studies how standard CNF transformations affect partial-assignment enumeration and shows that Plaisted-Greenbaum conversion with NNF preprocessing substantially improves SAT and SMT enumeration.},
   html        = {https://doi.org/10.1613/JAIR.1.16870},
   selected    = {true}
 }
@@ -82,6 +100,7 @@
   year        = {2024},
   publisher   = {Elsevier},
   doi         = {10.1016/j.artint.2024.104067},
+  abstract    = {Combines SMT-based enumeration with weight-structure awareness to reduce redundant integrations in Weighted Model Integration across exact and approximate integration settings.},
   html        = {https://doi.org/10.1016/j.artint.2024.104067},
   selected    = {true}
 }
@@ -98,6 +117,7 @@
   year        = {2024},
   publisher   = {IOS Press},
   doi         = {10.3233/FAIA241007},
+  abstract    = {Presents a general method for constructing theory-aware decision diagrams by using AllSMT-generated theory lemmas, yielding canonical diagrams when the underlying Boolean representation is canonical.},
   html        = {https://doi.org/10.3233/FAIA241007}
 }
 
@@ -112,6 +132,7 @@
   pages       = {8126--8135},
   year        = {2024},
   doi         = {10.1609/aaai.v38i8.28652},
+  abstract    = {Proposes a disjoint AllSAT algorithm that integrates CDCL, chronological backtracking, and implicant shrinking to enumerate compact partial models without introducing blocking clauses.},
   html        = {https://ojs.aaai.org/index.php/AAAI/article/view/28652}
 }
 
@@ -127,6 +148,7 @@
   year        = {2024},
   publisher   = {Springer Nature},
   doi         = {10.1038/s41598-024-53708-7},
+  abstract    = {Introduces a compact modular encoding of multiplier circuits for D-Wave's Pegasus topology and evaluates annealing strategies for factoring large biprime numbers on quantum hardware.},
   html        = {https://www.nature.com/articles/s41598-024-53708-7}
 }
 
@@ -141,6 +163,7 @@
   year        = {2024},
   publisher   = {Frontiers},
   doi         = {10.3389/fcomp.2024.1335369},
+  abstract    = {Analyzes the experimental choices behind D-Wave prime-factorization runs, including initialization, chain-strength, and annealing-offset strategies for modular embeddings.},
   html        = {https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1335369/full}
 }
 
@@ -156,6 +179,7 @@
   year        = {2023},
   publisher   = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
   doi         = {10.4230/LIPIcs.SAT.2023.15},
+  abstract    = {Evaluates CNF conversion techniques for disjoint SAT enumeration and demonstrates how NNF preprocessing can preserve shorter partial assignments and improve runtime.},
   html        = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2023.15}
 }
 
@@ -170,5 +194,6 @@
   pages       = {1876--1885},
   year        = {2022},
   publisher   = {PMLR},
+  abstract    = {Introduces an SMT-based Weighted Model Integration approach that exploits problem structure to avoid redundant models and supports multiple exact and approximate integration techniques.},
   html        = {https://proceedings.mlr.press/v180/spallitta22a.html}
 }
