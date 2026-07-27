@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won the **Poster Award** at the MIUR event in Houston.
+Delighted to have won first place in the **Poster Competition** at the VIII Italian Research Day in the World, the MIUR event in Houston! It was a wonderful opportunity to present my research and connect with the Italian research community.

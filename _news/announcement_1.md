@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Runner-up for the **Fahiem Bacchus PhD Award in Satisfiability**.
+Thrilled to have been named runner-up for the **Fahiem Bacchus PhD Award in Satisfiability**! It is a wonderful recognition of my Ph.D. work and its contributions to satisfiability research.
