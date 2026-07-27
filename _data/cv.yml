@@ -69,6 +69,17 @@ cv:
         awarder: VIII Italian Research Day in the World, Houston
         summary: Winning poster presented as a postdoctoral researcher at Rice University.
 
+    Services:
+      - label: Journal reviewer
+        details: "Journal of Automated Reasoning (Springer Nature); Integration (Elsevier)"
+
+      - label: Conference reviewer
+        details: "International Conference on Theory and Applications of Satisfiability Testing (SAT 2023 and SAT 2024)"
+
+    Organization:
+      - label: Tutorial
+        details: "[Solving Real-World Problems with Logic: A Hands-On Guide to Satisfiability Modulo Theories and Optimization Modulo Theories](https://ecai2025.org/tutorials/) (ECAI 2025)"
+
     Supervision:
       - label: Emanuele Civini
         details: "MSc thesis: Implementing and Evaluating d-DNNFs Modulo Theories"

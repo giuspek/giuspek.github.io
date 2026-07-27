@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Italian researcher and a Postdoctoral Associate at [Rice University](https://www.rice.edu/), where I work with [Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/). My research focuses on formal verification and automated reasoning, particularly model counting and model enumeration for SAT and SMT.
+I am an Italian researcher and a Postdoctoral Associate at [Rice University](https://www.rice.edu/), where I work with [Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/). Our current research investigates the relationship between quantum computing and SAT solving in both directions: using SAT-based techniques to support quantum verification, and using quantum computing to optimize SAT-solving tasks. More broadly, my research focuses on formal verification and automated reasoning, particularly model counting and model enumeration for SAT and SMT.
 
-I received my Ph.D. in Information and Communication Technology from the [University of Trento](https://www.unitn.it/) in 2025, under the supervision of [Roberto Sebastiani](https://disi.unitn.it/rseba/). My dissertation, *Efficient and Effective Model Enumeration in SAT and SMT: Investigating Novel Procedures and Applications*, developed new procedures and applications for AllSAT and AllSMT.
+I received my Ph.D. in Information and Communication Technology from the [University of Trento](https://www.unitn.it/) in 2025, under the supervision of [Roberto Sebastiani](https://disi.unitn.it/rseba/). My dissertation, _Efficient and Effective Model Enumeration in SAT and SMT: Investigating Novel Procedures and Applications_, developed new procedures and applications for AllSAT and AllSMT.
 
 My broader interests include knowledge compilation, weighted model integration, probabilistic inference, and quantum approaches to reasoning. I am always happy to discuss research ideas and potential collaborations.
