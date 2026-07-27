@@ -5,7 +5,10 @@ cv:
   image: ""
   summary: >
     Researcher in formal verification and automated reasoning, with a focus on
-    model counting and model enumeration for SAT and SMT.
+    model counting and model enumeration for SAT and SMT. Current research
+    investigates the relationship between quantum computing and SAT solving in
+    both directions: using SAT-based techniques for quantum verification and
+    using quantum computing to optimize SAT-solving tasks.
 
   social_networks:
     - network: GitHub
@@ -26,6 +29,15 @@ cv:
           Research with Moshe Y. Vardi on model counting and enumeration and
           their applications to real-world reasoning problems.
 
+      - company: University of Freiburg
+        position: Visiting Researcher
+        location: Freiburg, Germany
+        start_date: 2023
+        end_date: 2023
+        summary: >
+          Several-month research visit under the supervision of Armin Biere,
+          working on SAT and SMT model-enumeration techniques.
+
       - company: University of Trento
         position: Doctoral Researcher
         location: Trento, Italy
@@ -36,7 +48,6 @@ cv:
           efficient procedures and applications for AllSAT and AllSMT.
         highlights:
           - Teaching assistant for Formal Methods and Automated Reasoning.
-          - Visiting research experience at the University of Freiburg.
 
     Education:
       - institution: University of Trento
@@ -74,6 +85,10 @@ cv:
         awarder: VIII Italian Research Day in the World, Houston
         summary: Winning poster presented as a postdoctoral researcher at Rice University.
 
+    International Recognition:
+      - label: February 2026
+        details: 'Invited participant at NII Shonan Meeting No. 238, "Model Counting: From Theory to Practice"'
+
     Services:
       - label: Journal reviewer
         details: "Journal of Automated Reasoning (Springer Nature); Integration (Elsevier)"
@@ -83,7 +98,7 @@ cv:
 
     Organization:
       - label: Tutorial
-        details: "[Solving Real-World Problems with Logic: A Hands-On Guide to Satisfiability Modulo Theories and Optimization Modulo Theories](https://ecai2025.org/tutorials/) (ECAI 2025)"
+        details: 'Solving Real-World Problems with Logic: A Hands-On Guide to Satisfiability Modulo Theories and Optimization Modulo Theories — ECAI 2025 (<a href="https://ecai2025.org/tutorials/">webpage here</a>)'
 
     Supervision:
       - label: Emanuele Civini
