@@ -64,6 +64,11 @@ cv:
         end_date: 2018
 
     Awards:
+      - title: Runner-up, Fahiem Bacchus PhD Award in Satisfiability
+        date: 2026-07
+        awarder: SAT Association
+        summary: "Recognized as a runner-up for my Ph.D. thesis. [Award information](https://satisfiability.org/SAT24/phdaward.php)."
+
       - title: First Place, Poster Competition
         date: 2025-05
         awarder: VIII Italian Research Day in the World, Houston
