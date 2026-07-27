@@ -70,17 +70,17 @@ cv:
         summary: Winning poster presented as a postdoctoral researcher at Rice University.
 
     Supervision:
-      - name: Emanuele Civini
-        summary: "MSc thesis: Implementing and Evaluating d-DNNFs Modulo Theories"
+      - label: Emanuele Civini
+        details: "MSc thesis: Implementing and Evaluating d-DNNFs Modulo Theories"
 
-      - name: Massimo Michelutti
-        summary: "MSc thesis: Implementing and Evaluating Boolean Decision Diagrams Modulo Theories"
+      - label: Massimo Michelutti
+        details: "MSc thesis: Implementing and Evaluating Boolean Decision Diagrams Modulo Theories"
 
-      - name: Thomas Dallavia
-        summary: "MSc thesis: Solving OMT(NRA) and OMT(NTA) by Combining Logic-to-Optimization and Nonlinear Constrained Optimization Techniques"
+      - label: Thomas Dallavia
+        details: "MSc thesis: Solving OMT(NRA) and OMT(NTA) by Combining Logic-to-Optimization and Nonlinear Constrained Optimization Techniques"
 
-      - name: Gabriele Masina
-        summary: "MSc thesis: Extending Weighted Model Integration with Structure Awareness and Multiple Integration Approaches"
+      - label: Gabriele Masina
+        details: "MSc thesis: Extending Weighted Model Integration with Structure Awareness and Multiple Integration Approaches"
 
     Skills:
       - name: Research areas
