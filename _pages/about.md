@@ -12,7 +12,7 @@ profile:
     <p>Rice University</p>
     <p>Houston, Texas, USA</p>
 
-selected_papers: false # enable after replacing the starter bibliography
+selected_papers: true
 social: true # includes social icons at the bottom of the page
 
 announcements:
