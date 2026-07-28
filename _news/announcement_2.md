@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Very excited to have four papers appearing at **FLoC 2026** across different venues! I am looking forward to sharing our work, meeting the community, and enjoying a fantastic week of logic. See you there!
+I got four papers appearing at **FLoC 2026** across different venues! I am looking forward to sharing our work, meeting the community, and enjoying a fantastic week of logic. See you there!
