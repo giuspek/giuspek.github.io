@@ -2,14 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching and tutoring experience.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Rice University
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### COMP 409/509: Logic in Computer Science and Artificial Intelligence
 
-{% include courses.liquid %}
+**Guest Lecturer · Fall 2025**
+
+Taught four class sessions as a substitute for [Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
+
+## University of Trento
+
+### Formal Methods / Automated Reasoning
+
+**Teaching Assistant · 2020–2025**
+
+Supported the course through teaching, student assistance, and course activities during my Ph.D.
+
+### Mathematics Tutoring
+
+**Mathematics Tutor · 2018–2022**
+
+Provided mathematics tutoring with Anneliese Defranceschi.

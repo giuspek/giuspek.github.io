@@ -100,6 +100,20 @@ cv:
       - label: Tutorial
         details: 'Solving Real-World Problems with Logic: A Hands-On Guide to Satisfiability Modulo Theories and Optimization Modulo Theories — ECAI 2025 (<a href="https://ecai2025.org/tutorials/">webpage here</a>)'
 
+    Invited Talks:
+      - label: February 2024
+        details: "<strong>Effective Prime Factorization via Quantum Annealing by Modular Locally-Structured Embedding</strong> — invited talk at D-Wave"
+
+    Teaching:
+      - label: Fall 2025
+        details: "<strong>Guest Lecturer, COMP 409/509: Logic in Computer Science and Artificial Intelligence</strong>, Rice University — taught four class sessions as a substitute for Moshe Y. Vardi"
+
+      - label: 2020–2025
+        details: "<strong>Teaching Assistant, Formal Methods / Automated Reasoning</strong>, University of Trento"
+
+      - label: 2018–2022
+        details: "<strong>Mathematics Tutor</strong>, University of Trento — with Anneliese Defranceschi"
+
     Supervision:
       - label: Emanuele Civini
         details: "MSc thesis: Implementing and Evaluating d-DNNFs Modulo Theories"
