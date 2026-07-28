@@ -86,8 +86,11 @@ cv:
         summary: Winning poster presented as a postdoctoral researcher at Rice University.
 
     International Recognition:
-      - label: February 2026
-        details: 'Invited participant at NII Shonan Meeting No. 238, "Model Counting: From Theory to Practice"'
+      - bullet: >-
+          <div class="d-flex align-items-start">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-3" style="min-width: 90px">Feb. 2026</span>
+            <span>Invited participant at NII Shonan Meeting No. 238, <em>Model Counting: From Theory to Practice</em></span>
+          </div>
 
     Services:
       - label: Journal reviewer
@@ -101,18 +104,30 @@ cv:
         details: 'Solving Real-World Problems with Logic: A Hands-On Guide to Satisfiability Modulo Theories and Optimization Modulo Theories — ECAI 2025 (<a href="https://ecai2025.org/tutorials/">webpage here</a>)'
 
     Invited Talks:
-      - label: February 2024
-        details: "<strong>Effective Prime Factorization via Quantum Annealing by Modular Locally-Structured Embedding</strong> — invited talk at D-Wave"
+      - bullet: >-
+          <div class="d-flex align-items-start">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-3" style="min-width: 90px">Feb. 2024</span>
+            <span><strong>Effective Prime Factorization via Quantum Annealing by Modular Locally-Structured Embedding</strong> — invited talk at D-Wave</span>
+          </div>
 
     Teaching:
-      - label: Fall 2025
-        details: "<strong>Guest Lecturer, COMP 409/509: Logic in Computer Science and Artificial Intelligence</strong>, Rice University — taught four class sessions as a substitute for Moshe Y. Vardi"
+      - bullet: >-
+          <div class="d-flex align-items-start">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-3" style="min-width: 90px">Fall 2025</span>
+            <span><strong>Guest Lecturer, COMP 409/509: Logic in Computer Science and Artificial Intelligence</strong>, Rice University — taught four class sessions as a substitute for Moshe Y. Vardi</span>
+          </div>
 
-      - label: 2020–2025
-        details: "<strong>Teaching Assistant, Formal Methods / Automated Reasoning</strong>, University of Trento"
+      - bullet: >-
+          <div class="d-flex align-items-start">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-3" style="min-width: 90px">2020–2025</span>
+            <span><strong>Teaching Assistant, Formal Methods / Automated Reasoning</strong>, University of Trento</span>
+          </div>
 
-      - label: 2018–2022
-        details: "<strong>Mathematics Tutor</strong>, University of Trento — with Anneliese Defranceschi"
+      - bullet: >-
+          <div class="d-flex align-items-start">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-3" style="min-width: 90px">2018–2022</span>
+            <span><strong>Mathematics Tutor</strong>, University of Trento — with Anneliese Defranceschi</span>
+          </div>
 
     Supervision:
       - label: Emanuele Civini
