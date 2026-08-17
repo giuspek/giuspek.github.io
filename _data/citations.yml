@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-17'
 papers:
   9xEOo5YAAAAJ:2osOgNQ5qMEC:
-    citations: 27
+    citations: 28
     title: On CNF conversion for disjoint SAT enumeration
     year: '2023'
   9xEOo5YAAAAJ:IjCSPb-OGe4C:
@@ -21,6 +21,10 @@ papers:
     citations: 17
     title: Disjoint partial enumeration without blocking clauses
     year: '2024'
+  9xEOo5YAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: 26th International Conference on Theory and Applications of Satisfiability Testing (SAT 2023)
+    year: '2023'
   9xEOo5YAAAAJ:WF5omc3nYNoC:
     citations: 1
     title: Canonical decision diagrams modulo theories-code
@@ -30,7 +34,7 @@ papers:
     title: On CNF conversion for SAT and SMT enumeration
     year: '2025'
   9xEOo5YAAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 15
     title: Disjoint projected enumeration for SAT and SMT without blocking clauses
     year: '2025'
   9xEOo5YAAAAJ:_FxGoFyzp5QC:
