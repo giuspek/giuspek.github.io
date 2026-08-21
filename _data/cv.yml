@@ -94,7 +94,7 @@ cv:
 
     Services:
       - label: Journal reviewer
-        details: "Journal of Automated Reasoning (Springer Nature); Integration (Elsevier); Quantum Information Processing (Springer Nature)"
+        details: "Journal of Automated Reasoning (Springer Nature); Integration (Elsevier); Quantum Information Processing (Springer Nature); AIMS Mathematics (AIMS Press);"
 
       - label: Conference reviewer
         details: "International Conference on Theory and Applications of Satisfiability Testing (SAT 2023 and SAT 2024)"
