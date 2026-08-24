@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-24'
 papers:
   9xEOo5YAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -54,7 +54,7 @@ papers:
     title: Computing Short SAT Implicants via Ising/QUBO Encodings
     year: '2026'
   9xEOo5YAAAAJ:u-x6o8ySG0sC:
-    citations: 15
+    citations: 16
     title: Enhancing SMT-based weighted model integration by structure awareness
     year: '2024'
   9xEOo5YAAAAJ:u5HHmVD_uO8C:
