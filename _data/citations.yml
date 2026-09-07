@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-07'
 papers:
   9xEOo5YAAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 29
     title: On CNF conversion for disjoint SAT enumeration
     year: '2023'
   9xEOo5YAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: d-DNNF Modulo Theories-Tool Source Code
     year: '2026'
   9xEOo5YAAAAJ:UeHWp8X0CEIC:
-    citations: 17
+    citations: 18
     title: Disjoint partial enumeration without blocking clauses
     year: '2024'
   9xEOo5YAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: Computing Short SAT Implicants via Ising/QUBO Encodings
     year: '2026'
   9xEOo5YAAAAJ:u-x6o8ySG0sC:
-    citations: 16
+    citations: 17
     title: Enhancing SMT-based weighted model integration by structure awareness
     year: '2024'
   9xEOo5YAAAAJ:u5HHmVD_uO8C:
