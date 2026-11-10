@@ -75,6 +75,11 @@ cv:
         end_date: 2018
 
     Awards:
+      - title: Winner, Informatics Europe Best Dissertation Award
+        date: 2026-10
+        awarder: Informatics Europe
+        summary: "Awarded for my Ph.D. thesis on model enumeration in SAT and SMT; presented at ECSS 2026 in Porto, Portugal. [Award announcement](https://www.informatics-europe.org/news/1030-university-of-trento-graduate-wins-informatics-europe-best-dissertation-award-2026.html)."
+
       - title: Runner-up, Fahiem Bacchus PhD Award in Satisfiability
         date: 2026-07
         awarder: SAT Association

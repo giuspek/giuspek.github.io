@@ -6,7 +6,7 @@ subtitle: Postdoctoral Associate at <a href="https://www.rice.edu/">Rice Univers
 
 profile:
   align: right
-  image: github_giuspek.png
+  image: GiuseppeBio.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Rice University</p>
