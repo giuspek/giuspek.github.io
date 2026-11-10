@@ -7,7 +7,7 @@ subtitle: Postdoctoral Associate at <a href="https://www.rice.edu/">Rice Univers
 profile:
   align: right
   image: GiuseppeBio.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # displays the full rectangular image
   more_info: >
     <p>Rice University</p>
     <p>Houston, Texas, USA</p>
